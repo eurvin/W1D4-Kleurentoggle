@@ -1,0 +1,54 @@
+body {
+  background-color: white;
+}
+
+nav {
+  width: 100px;
+}
+
+.nav-main {
+  width: 100%;
+  height: 60px;
+  background-color: #fff;
+  z-index: 1000;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.btnToggleNav {
+  width: 60px;
+  height: 100%;
+  background-image: url("menu.png");
+  background-repeat: no-repeat;
+  background-size: 40%;
+  background-position: center;
+  cursor: pointer;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.home {
+  background-color: grey;
+}
+
+.white {
+  background-color: white;
+}
+
+.red {
+  background-color: red;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.purple {
+  background-color: purple;
+}
+
+.green {
+  background-color: green;
+}
